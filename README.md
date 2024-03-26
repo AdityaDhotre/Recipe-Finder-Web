@@ -1,4 +1,4 @@
-# Recepie Radar
+# Food Recepie Finder
 
 ## Description
 
